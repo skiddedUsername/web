@@ -37,7 +37,7 @@ function Home() {
       <div className="App App-header">
         <div style={{ width: "100%", backgroundColor: "#2F3136" }}>
           <h1 style={{ fontSize: "6rem" }} className="mt-3">
-            <b>Disbox</b>
+            <b>Save Fault</b>
           </h1>
           <h1 style={{ fontSize: "2.5rem" }} className="">
             Free, fast, unlimited cloud storage.
