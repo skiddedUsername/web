@@ -8,11 +8,8 @@ function NavigationBar() {
                 <Navbar.Brand as={Link} to="/"><b style={{ fontSize: "1.3rem" }}>Save Vault</b></Navbar.Brand>
                 <Navbar.Collapse>
                     <Nav className="me-auto">
-                        <NavItem href="/home">
-                            <Nav.Link as={Link} to="/home" >Home</Nav.Link>
-                        </NavItem>
                         <NavItem href="/setup">
-                            <Nav.Link as={Link} to="/setup" >Setup</Nav.Link>
+                            <Nav.Link as={Link} to="/setup" >Login</Nav.Link>
                         </NavItem>
                     </Nav>
                     <Nav className="ml-auto">
